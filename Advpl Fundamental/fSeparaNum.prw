@@ -3,7 +3,7 @@
 // Área de identificação
 /*
 Autor: Elton Oliveira
-Fonte:
+Fonte: fSeparaNum
 */
 
 // Área de Inicialização
